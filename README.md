@@ -3,10 +3,10 @@ This is a Monte Carlo Stock Simulation considering stock prices over a trading y
 
 # What it does:
 - Using an intial stock price of 100 this simulates 50 possible paths of stock prices.
-- A normal distribution (symmetrical probability distribution) is used to model each      days price which is scaled by the previous price and a random daily return.
+- A normal distribution (symmetrical probability distribution) is used to model each days price which is scaled by the previous price and a random daily return.
 - A graph is produced containing the 50 different paths.
 - The probability of the stock finsihing above the price 110 is calculated.
-- A Geometric Brownian Motion (GBM) makes the calculations and develops the potential     paths that the stock prices follow. 
+- A Geometric Brownian Motion (GBM) makes the calculations and develops the potential paths that the stock prices follow. 
 
 # Parameters:
 - Start price: 100
