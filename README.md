@@ -16,7 +16,7 @@ This is a Monte Carlo Stock Simulation considering stock prices over a trading y
 - Daily volatility: 2%
 
 # Result:
-<img width="636" height="478" alt="image" src="https://github.com/user-attachments/assets/a04efda6-8efe-468e-bb1d-22bc91ea1fd.png" />
+<img width="979" height="556" alt="image" src="https://github.com/user-attachments/assets/217cd7db-3c21-4f0f-91b7-b6cb6485ae20" />
 
 
                                                         
